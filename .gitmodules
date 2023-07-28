@@ -1,0 +1,12 @@
+[submodule "dask-tutorial-advanced"]
+	path = dask-tutorial-advanced
+	url = https://github.com/dask-contrib/dask-tutorial-advanced
+[submodule "scipy-2023-keras"]
+	path = scipy-2023-keras
+	url = https://github.com/chenmoneygithub/scipy-2023-keras.git
+[submodule "scipy-2023-pydantic-tutorial"]
+	path = scipy-2023-pydantic-tutorial
+	url = https://github.comadonath/scipy-2023-pydantic-tutorial
+[submodule "scipy2023-deeplearning"]
+	path = scipy2023-deeplearning
+	url = https://github.com/rasbt/scipy2023-deeplearning.git
